@@ -1,0 +1,17 @@
+Dataset Overview
+
+Total Records: 100,000 individual banking clients
+Features: 45 columns
+Target Variable: TermDepositSubscribed (1 = subscribed, 0 = not subscribed)
+
+The dataset contains 100,000 customer records, each representing an individual banking client along with their demographic, financial, behavioral, and marketing interaction attributes.
+The dataset consists of 45 columns, including the target variable TermDepositSubscribed, which indicates whether a customer subscribed to a term-deposit offer (1 = yes, 0 = no).
+
+Each row provides:
+
+Personal and demographic information
+Income, credit score, and wealth indicators
+Product ownership and account relationship details
+Digital activity and transactional behavior
+Past and current marketing engagement
+A binary outcome variable for predictive modeling
