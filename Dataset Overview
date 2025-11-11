@@ -1,5 +1,7 @@
-Dataset Overview
+Dataset Overview - 
 
+Dataset Source - Kaggle
+Dataset Link - https://www.kaggle.com/datasets/nisargpatel344/bank-marketing-dataset-for-term-deposit-prediction
 Total Records: 100,000 individual banking clients
 Features: 45 columns
 Target Variable: TermDepositSubscribed (1 = subscribed, 0 = not subscribed)
@@ -8,7 +10,6 @@ The dataset contains 100,000 customer records, each representing an individual b
 The dataset consists of 45 columns, including the target variable TermDepositSubscribed, which indicates whether a customer subscribed to a term-deposit offer (1 = yes, 0 = no).
 
 Each row provides:
-
 Personal and demographic information
 Income, credit score, and wealth indicators
 Product ownership and account relationship details
