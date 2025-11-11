@@ -1,0 +1,12 @@
+⚙️ Project Workflow -
+
+Data Understanding & EDA – Explore feature distributions, correlations, and class imbalance
+Preprocessing – Handle missing values, encode categorical data, scale numerical features
+Feature Engineering – Create derived metrics, drop redundant columns
+Model Building – Train models and compare
+Evaluation – Use Accuracy, ROC-AUC, Classification report.
+Model Explainability – Feature importance extraction and visualization
+
+🧩 Tools & Libraries -
+
+Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn
